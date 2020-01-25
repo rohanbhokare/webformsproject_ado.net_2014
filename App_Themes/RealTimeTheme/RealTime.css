@@ -1,0 +1,46 @@
+﻿
+
+body {
+    background-color:#9900cc;
+}
+
+.headingTitle {
+    margin:0px;
+    text-align :center;
+    background-color:#ffff66;
+    color:#7a00a3;
+    font-family:Arial;
+    font-size:larger;
+    font-weight:300;
+    border:2px solid yellow;
+}
+
+th {
+    text-align: left;
+}
+/*
+
+.FirstContent {
+    color:#7a00a3;
+    background-color:#ffff66;
+    margin-left:25%;
+    margin-right:25%;
+    border-style:groove;
+    border-color:yellow;
+    
+}
+.FirstContent {
+    width: 400px;
+    height: 300px;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+
+.FirstContent:hover {
+    width: 420px;
+    height: 320px;
+   transform: rotate(5deg);
+}
+    */
+
+
